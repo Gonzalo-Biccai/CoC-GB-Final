@@ -1,0 +1,4 @@
+Model\Producto.class
+Database\ProductoDAO.class
+Config\DBConn.class
+Controller\ProductoController.class
